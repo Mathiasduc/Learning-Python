@@ -63,12 +63,3 @@ while True:
         print("Vous avez la couleur correspondante, recuperez la moitier de votre mise.")
     else:
         print("Vous avez perdu. Plus de chance la prochaine fois")
-
-
-
-
-
-
-
-
-
